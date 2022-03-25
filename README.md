@@ -1,3 +1,2 @@
 Alx course
-first commit
-alx
+1st commit alx
